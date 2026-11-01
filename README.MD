@@ -44,4 +44,4 @@ Through this project I practiced:
 
 ## Live Demo
 
-Coming soon.
+[View Live Demo](https://fajarsidiq477.github.io/student-registration-app/)
