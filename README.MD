@@ -40,7 +40,7 @@ Through this project I practiced:
 
 ## Screenshot
 
-Screenshot will be added here.
+![Student Registration App](screenshots/preview.png)
 
 ## Live Demo
 
